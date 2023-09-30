@@ -19,8 +19,8 @@ export default function ComplexFooter() {
               <script>
                 document.write(new Date().getFullYear())
               </script>
-              &nbsp;Astro Ecommerce by &nbsp;
-              <a href="https://www.creative-tim.com" className="text-dark" target="_blank">Creative Tim</a>.
+              &nbsp;Ecommerce by &nbsp;
+              <a href="https://www.linkedin.com/in/stephan-dma/" className="text-dark" target="_blank">DMA</a>.
             </div>
           </div>
         </div>

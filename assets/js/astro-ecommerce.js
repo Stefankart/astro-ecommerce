@@ -2,10 +2,10 @@
 // * Astro Ecommerce - v1.1.0
 // =========================================================
 //
-// * Product Page: https://www.creative-tim.com/astro
-// * Copyright 2023 Creative Tim (https://www.creative-tim.com)
+// * Product Page: https://www.linkedin.com/company/dopemarketingastro
+// * Copyright 2023 DMA (https://www.https://www.linkedin.com/company/dopemarketing)
 //
-// Coded by www.creative-tim.com
+// Coded by www.https://www.linkedin.com/company/dopemarketing
 //
 // =========================================================
 //

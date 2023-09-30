@@ -9,11 +9,11 @@ export default function Footer() {
               <script>document.write(new Date().getFullYear())</script>
               &nbsp;Astro Ecommerce by 
               <a
-                href="https://www.creative-tim.com"
+                href="https://www.linkedin.com/in/stephan-dma/"
                 className="text-dark ms-1"
                 target="_blank"
               >
-                Creative Tim
+                DMA
               </a>
               .
             </div>
@@ -22,16 +22,16 @@ export default function Footer() {
             <ul className="nav nav-footer justify-content-center justify-content-lg-end">
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com"
+                  href="https://www.linkedin.com/in/stephan-dma/"
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
-                  Creative Tim
+                  DMA
                 </a>
               </li>
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com/presentation"
+                  href="https://www.linkedin.com/company/dopemarketing"
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com/blog"
+                  href="https://www.linkedin.com/company/dopemarketing"
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
@@ -49,7 +49,7 @@ export default function Footer() {
               </li>
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com/license"
+                  href="https://www.linkedin.com/company/dopemarketing"
                   className="nav-link text-sm pe-0 text-muted"
                   target="_blank"
                 >
